@@ -1,5 +1,4 @@
 # Start creating an application
-___
 
 ## The task
 
